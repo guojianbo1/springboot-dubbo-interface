@@ -3,7 +3,7 @@ package com.mystudy.springboot.model;
 import java.io.Serializable;
 
 public class WhitelistAccount implements Serializable {
-    private Integer id;
+    private Integer id;//
 
     private Integer userid;
 
